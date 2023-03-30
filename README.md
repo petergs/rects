@@ -7,6 +7,8 @@
 3. `go build `
 4. Add `rects` to your `PATH`.
 
+Alternatively, just `go install github.com/petergs/rects@latest`.
+
 ## Usage
 ```
 Usage of rects:
