@@ -1,0 +1,26 @@
+{
+    "rectColors": [
+        "#282a36",
+        "#f8f8f2",
+        "#6272a4",
+        "#8be9fd",
+        "#50fa7b",
+        "#ffb86c",
+        "#ff79c6",
+        "#bd93f9",
+        "#ff5555",
+        "#f1fa8c",
+        "#44475a"
+    ],
+    "rectWidth": 10,
+    "rectHeight": 10,
+    "canvasWidth": 1920,
+    "canvasHeight": 1080,
+    "jitterX": 0,
+    "jitterY": 0,
+    "xDistFactor": 120,
+    "yDistFactor": 100,
+    "weight": 30,
+    "weightedColor": "#282a36",
+    "canvasColor": "#282a36"
+}

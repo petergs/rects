@@ -1,0 +1,23 @@
+{
+    "rectColors": [
+        "#f5e0dc",
+        "#b4befe",
+        "#f38ba8",
+        "#fab387",
+        "#f9e2af",
+        "#a6e3a1",
+        "#94e2d5",
+        "#89b4fa",
+        "#cba6f7",
+        "#f2cdcd"
+    ],
+    "rectWidth": 50,
+    "rectHeight": 100,
+    "canvasWidth": 1920,
+    "canvasHeight": 1080,
+    "jitterX": 100,
+    "jitterY": 100,
+    "xDistFactor": 200,
+    "yDistFactor": 2,
+    "canvasColor": "#b4befe"
+}
