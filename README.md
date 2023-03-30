@@ -76,3 +76,9 @@ The drawing algorithm does the following (which might help illuminate the effect
 2. For each pixel pair (`x`,`y`), check if there should be a rectangle at (`x`,`y`) based on `xDistFactor`, `yDistFactor` and the canvas dimensions (check `draw.go` for further specification).
 3. If there should be a rectangle drawn at (`x`,`y`), select a random color from `rectColors` for the rectangle. Set jitter values for the rectangle to random values within the supplied bounds for `jitterX`, `jitterY`, `jitterWidth`, and `jitterHeight`.
 4. Draw a rectangle of height `rectHeight`+`jitterHeight` and width `rectWidth`+`jitterWidth`. The center of the rectangle will be at `x`+`jitterX` and `y`+`jitterY`.
+
+## Gallery
+![dracula theme example image](./examples/dracula/image.png)
+![catppuccin theme example image](./examples/catppuccin/image.png)
+![nord theme example image](./examples/nord/image.png)
+![chain script example image](./examples/chain/stage2.png)
